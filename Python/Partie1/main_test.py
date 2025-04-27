@@ -1,7 +1,7 @@
 """Permet de tester les fonctions de base de Python"""
 
 import os
-from  multiplcation import *
+from  Python.Partie1.multiplcation import *
 
 # # test de la fonction table
 # table(3, 20)
